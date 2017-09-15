@@ -1,3 +1,8 @@
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
 # STAT545-hw01-LUO-YANCHAO
 1. Personal information
 2. Education Background
@@ -12,7 +17,7 @@
 - **Name: Yanchao LUO**
 - **Gender: Male**
 - **Date of Birth: Sep.13, 1993** 
-- **Email address: yanchao.luo@stat.ubc.ca**
+- **Email address:** yanchao.luo@stat.ubc.ca
 
 ## Education Background
 
