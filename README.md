@@ -1,9 +1,4 @@
----
-output:
-  html_document:
-    keep_md: yes
 
----
 # STAT545-hw01-LUO-YANCHAO
 
 ## Welcome to the repository of Yanchao Luo
