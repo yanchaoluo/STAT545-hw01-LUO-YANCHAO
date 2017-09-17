@@ -41,7 +41,7 @@ output:
  ![](https://media3.giphy.com/media/l41YqLMPYCGqEe4ne/giphy.gif)
  
 
->  Dwyane Wade said "fall down 7 times ,standup 8" 
+>  Dwyane Wade said "fall down 7 times ,stand up 8" 
 
  His words inspired me when I was in trouble.
 
