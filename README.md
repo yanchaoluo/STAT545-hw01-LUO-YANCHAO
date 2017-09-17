@@ -43,7 +43,7 @@
  His words inspired me when I was in trouble.
 
  I wrote a code about my favorite player for you.
- (Answer need to use quotation marks, not use ~~wade~~, ~~Dwyane wade~~, ~~"wade"~~ )
+ (Answer need to use quotation marks and write in full name, not use ~~wade~~, ~~Dwyane wade~~, ~~"wade"~~ )
 
 
 ##### Who is Yanchao's favorite basketball player?
