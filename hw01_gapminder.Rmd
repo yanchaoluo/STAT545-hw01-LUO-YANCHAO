@@ -1,0 +1,95 @@
+---
+title: "hw01_gapminder"
+author: "yanchao"
+output: github_document
+
+---
+##Load packages"gapminder"
+```{r}
+library(gapminder)
+##First time should install "gapminder" using R code: Install.pakages("gapminder")
+```
+
+##Display the structure of "gapminder"
+```{r}
+str(gapminder)
+```
+
+##Print gapminder to screen
+```{r}
+class(gapminder)
+gapminder
+```
+
+##Only see head or tail of the data
+```{r}
+head(gapminder)
+tail(gapminder)
+```
+
+##Query basic info on a data frame
+```{r}
+names(gapminder)
+nrow(gapminder)
+dim(gapminder)
+length(gapminder)
+ncol(gapminder)
+```
+
+##statistical overview
+```{r}
+summary(gapminder)
+```
+
+##Plot interested data
+
+
+```{r}
+plot( lifeExp  ~ pop, gapminder)
+```
+
+```{r}
+plot( lifeExp ~ gdpPercap, gapminder)
+```
+## Transform variable
+```{r}
+plot(lifeExp ~ log(gdpPercap), gapminder)
+## these two variables seem to be more liear
+```
+
+##Look at the variables inside a data frame
+```{r}
+head(gapminder$pop)
+summary(gapminder$pop)
+hist(gapminder$pop)
+### If the variables are categorical
+table(gapminder$continent)
+barplot(table(gapminder$continent))
+levels(gapminder$continent)
+nlevels(gapminder$continent)
+```
+
+###ggplot of the data
+```{r}
+library(tidyverse)
+p <- ggplot(filter(gapminder, continent != "Oceania"),
+            aes(x = gdpPercap, y = lifeExp)) 
+p <- p + scale_x_log10() 
+p + geom_point() 
+p + geom_point(aes(color = continent)) 
+p + geom_point(alpha = (1/3), size = 3) + geom_smooth(lwd = 3, se = FALSE)
+p + geom_point(alpha = (1/3), size = 3) + facet_wrap(~ continent) +
+  geom_smooth(lwd = 1.5, se = FALSE)
+```
+```{r}
+p <- ggplot(filter(gapminder, continent != "Oceania"),
+            aes(x = pop, y = lifeExp)) 
+p <- p + scale_x_log10() 
+p + geom_point() 
+p + geom_point(aes(color = continent)) 
+p + geom_point(alpha = (1/3), size = 3) + geom_smooth(lwd = 3, se = FALSE)
+p + geom_point(alpha = (1/3), size = 3) + facet_wrap(~ continent) +
+  geom_smooth(lwd = 1.5, se = FALSE)
+```
+
+
