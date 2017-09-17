@@ -6,9 +6,9 @@ output:
 ---
 # STAT545-hw01-LUO-YANCHAO
 
-### 1.Personal information###
-### 2.Education Background###
-### 3.Hobbies###
+### 1.Personal information
+### 2.Education Background
+### 3.Hobbies
 *1. Basketball*
 
 *2. Running*
@@ -30,7 +30,8 @@ output:
 | *University of Calgary*         | *Undergraduate*|*2014-2017* |
 | *University of British Columbia*| *Graduate*     |*2017-*     |
 ## Hobbies
-####My favorite sport is basketball####
+
+####My favorite sport is basketball
 
  Dwyane Wade is my favorite player
 
@@ -46,7 +47,8 @@ output:
  I wrote a code about my favorite player for you.
  (Answer need to use quotation marks, not use ~~wade~~, ~~Dwyane wade~~, ~~"wade"~~ )
 
-#####What is Yanchao favorite basketball players?#####
+
+#####What is Yanchao favorite basketball players?
       
 ```R
 
@@ -60,7 +62,7 @@ answer<- function(x) {
   }
 }
 ```
-####Another one is Running####
+####Another one is Running
 
 If the weather is good, I will go outside running during the weekend.
 
