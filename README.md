@@ -9,6 +9,7 @@ output:
 ### 1.Personal information
 ### 2.Education Background
 ### 3.Hobbies
+
 *1. Basketball*
 
 *2. Running*
@@ -31,9 +32,9 @@ output:
 | *University of British Columbia*| *Graduate*     |*2017-*     |
 ## Hobbies
 
-#### My favorite sport is basketball
+#### My favorite sport is basketball.
 
- Dwyane Wade is my favorite player
+ Dwyane Wade is my favorite player.
 
   [link to the page abount Dwyane Wade](https://en.wikipedia.org/wiki/Dwyane_Wade)
  
