@@ -243,7 +243,9 @@ p + geom_point(alpha = (1/3), size = 3) + facet_wrap(~ continent) +
 
     ## `geom_smooth()` using method = 'loess'
 
-![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-11-4.png) \#\#\# Comparison of the relationship between population and life expectation
+![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-11-4.png)
+
+### Comparison of the relationship between population and life expectation
 
 ``` r
 p <- ggplot(filter(gapminder, continent != "Oceania"),
