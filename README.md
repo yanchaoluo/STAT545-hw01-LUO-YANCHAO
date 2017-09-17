@@ -75,4 +75,4 @@ Here are some reasons why
 ## To-Dos
 - [x] Personal information added
 - [x] More than 4 aspects of the Markdown syntax
-- [x] Reviewed by Vincenzocoia
+- [ ] Reviewed by Vincenzocoia
