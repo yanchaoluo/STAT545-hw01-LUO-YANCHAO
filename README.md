@@ -66,4 +66,5 @@ answer<- function(x) {
 
 If the weather is good, I will go outside running during the weekend.
 
-Here are some reasons why [Running Improves Your Health]("https://www.runnersworld.com/start-running/6-ways-running-improves-your-health")
+Here are some reasons why
+[Running Improves Your Health](http://www.medicaldaily.com/run-your-life-6-health-benefits-running-just-5-minutes-every-day-322050)
