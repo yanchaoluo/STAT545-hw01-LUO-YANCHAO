@@ -2,13 +2,13 @@
 output:
   html_document:
     keep_md: yes
-  pdf_document: default
+
 ---
 # STAT545-hw01-LUO-YANCHAO
 
-###1. Personal information###
-###2. Education Background###
-###3. Hobbies###
+### 1.Personal information###
+### 2.Education Background###
+### 3.Hobbies###
 *1. Basketball*
 
 *2. Running*
@@ -30,13 +30,13 @@ output:
 | *University of Calgary*         | *Undergraduate*|*2014-2017* |
 | *University of British Columbia*| *Graduate*     |*2017-*     |
 ## Hobbies
-+ ####**My favorite sport is basketball**####
+####My favorite sport is basketball####
 
-      - Dwyane Wade is my favorite player
+ Dwyane Wade is my favorite player
 
-    [link to the page abount Dwyane wade](https://en.wikipedia.org/wiki/Dwyane_Wade)
+  [link to the page abount Dwyane wade](https://en.wikipedia.org/wiki/Dwyane_Wade)
  
-     ![](https://media3.giphy.com/media/l41YqLMPYCGqEe4ne/giphy.gif)
+  ![](https://media3.giphy.com/media/l41YqLMPYCGqEe4ne/giphy.gif)
  
 
 >  Dwyane Wade said "fall down 7 times ,standup 8" 
@@ -60,7 +60,7 @@ answer<- function(x) {
   }
 }
 ```
-+ ####**Another one is Running**####
+####Another one is Running####
 
 If the weather is good, I will go outside running during the weekend.
 
