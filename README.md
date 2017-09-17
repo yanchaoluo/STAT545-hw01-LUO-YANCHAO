@@ -31,7 +31,7 @@ output:
 | *University of British Columbia*| *Graduate*     |*2017-*     |
 ## Hobbies
 
-####My favorite sport is basketball
+#### My favorite sport is basketball
 
  Dwyane Wade is my favorite player
 
@@ -48,7 +48,7 @@ output:
  (Answer need to use quotation marks, not use ~~wade~~, ~~Dwyane wade~~, ~~"wade"~~ )
 
 
-#####What is Yanchao favorite basketball players?
+##### What is Yanchao favorite basketball players?
       
 ```R
 
@@ -62,7 +62,7 @@ answer<- function(x) {
   }
 }
 ```
-####Another one is Running
+#### Another one is Running
 
 If the weather is good, I will go outside running during the weekend.
 
