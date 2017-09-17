@@ -77,7 +77,8 @@ Every time when I added some information I will saved my changes, then used "Com
 
 ## Reflections
 I find some problems when I did the first assignment. Firstly, when I wanted to use "section headers" Markdown syntax, I often forgot the space after the pound sign. This will lead to make an error after pushing local changes to Github. Then I learned how to find Where is the link of the picture on the website. For each image, clicking right find the original address of the image. Moreover, I do not know how to design a talking chart in R to create a window showing of options of basketball players. 
-In addtion, I find there is a very useful website for [Markdown syntax](https://daringfireball.net/projects/markdown/syntax). For the R markdown document, rightnow it very easy for me to repete what we studied in class. And here is my 
+
+In addtion, for the first assignment, I find there is a very useful website for [Markdown syntax](https://daringfireball.net/projects/markdown/syntax). For the R markdown document, rightnow it very easy for me to repete what we studied in class. And here is my 
 [gapminder.Rmd ](https://github.com/yanchaoluo/STAT545-hw01-LUO-YANCHAO/blob/master/hw01_gapminder.Rmd), 
 [gapminder.md ](https://github.com/yanchaoluo/STAT545-hw01-LUO-YANCHAO/blob/master/hw01_gapminder.md), 
 and [gapminder_files](https://github.com/yanchaoluo/STAT545-hw01-LUO-YANCHAO/tree/master/hw01_gapminder_files/figure-markdown_github-ascii_identifiers)
