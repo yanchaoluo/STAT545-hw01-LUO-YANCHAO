@@ -37,7 +37,7 @@ output:
 
   [link to the page abount Dwyane wade](https://en.wikipedia.org/wiki/Dwyane_Wade)
  
-  ![](https://media3.giphy.com/media/l41YqLMPYCGqEe4ne/giphy.gif)
+ ![](https://media3.giphy.com/media/l41YqLMPYCGqEe4ne/giphy.gif)
  
 
 >  Dwyane Wade said "fall down 7 times ,standup 8" 
@@ -66,4 +66,4 @@ answer<- function(x) {
 
 If the weather is good, I will go outside running during the weekend.
 
-Here are some reasons why [Running Improves Your Health ]("https://www.runnersworld.com/start-running/6-ways-running-improves-your-health")
+Here are some reasons why [Running Improves Your Health]("https://www.runnersworld.com/start-running/6-ways-running-improves-your-health")
