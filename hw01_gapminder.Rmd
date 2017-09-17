@@ -69,6 +69,7 @@ nlevels(gapminder$continent)
 ```
 
 ## ggplot of the data
+### Comparison of the relationship between gdp per cap and life expectation
 ```{r}
 library(tidyverse)
 p <- ggplot(filter(gapminder, continent != "Oceania"),
@@ -80,6 +81,7 @@ p + geom_point(alpha = (1/3), size = 3) + geom_smooth(lwd = 3, se = FALSE)
 p + geom_point(alpha = (1/3), size = 3) + facet_wrap(~ continent) +
   geom_smooth(lwd = 1.5, se = FALSE)
 ```
+### Comparison of the relationship between population and life expectation
 ```{r}
 p <- ggplot(filter(gapminder, continent != "Oceania"),
             aes(x = pop, y = lifeExp)) 
