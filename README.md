@@ -35,7 +35,7 @@ output:
 
  Dwyane Wade is my favorite player
 
-  [link to the page abount Dwyane wade](https://en.wikipedia.org/wiki/Dwyane_Wade)
+  [link to the page abount Dwyane Wade](https://en.wikipedia.org/wiki/Dwyane_Wade)
  
  ![](https://media3.giphy.com/media/l41YqLMPYCGqEe4ne/giphy.gif)
  
@@ -48,7 +48,7 @@ output:
  (Answer need to use quotation marks, not use ~~wade~~, ~~Dwyane wade~~, ~~"wade"~~ )
 
 
-##### What is Yanchao favorite basketball players?
+##### Who is Yanchao's favorite basketball player?
       
 ```R
 
@@ -64,7 +64,7 @@ answer<- function(x) {
 ```
 #### Another one is Running
 
-If the weather is good, I will go outside running during the weekend.
+If the weather is good, I will go outside running during the weekends.
 
 Here are some reasons why
 [Running Improves Your Health](http://www.medicaldaily.com/run-your-life-6-health-benefits-running-just-5-minutes-every-day-322050)
