@@ -71,3 +71,8 @@ If the weather is good, I will go outside running during the weekends.
 
 Here are some reasons why
 [Running Improves Your Health](http://www.medicaldaily.com/run-your-life-6-health-benefits-running-just-5-minutes-every-day-322050)
+
+## To-Dos
+- [x] Personal information added
+- [x] More than 4 aspects of the Markdown syntax
+- [x] Reviewed by Vincenzocoia
