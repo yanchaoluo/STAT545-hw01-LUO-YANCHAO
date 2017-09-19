@@ -1,7 +1,7 @@
 
 # STAT545-hw01-LUO-YANCHAO
 
-## Welcome to the repository of Yanchao Luo
+## Welcome to the repository of Yanchao Luo :smiley:
 
 ### 1.Personal information
 ### 2.Education Background
