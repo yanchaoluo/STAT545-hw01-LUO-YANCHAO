@@ -73,12 +73,12 @@ Here are some reasons why
 ## How I got the changes into README.md
 I tried to edit the README.md in the browser at github.com when I first used github. Then I found that it was very inconvenient for layout.
 So I tried to edit locally and then Pushed to GitHub. I created a file called "homework 1" and made a connection from Github to my computer.
-Every time when I added some information I will saved my changes, then used "Commit" button to send my changes to my repo. The last thing was just pushing the commit to GitHub.
+Every time when I added some information I will saved my changes, then used "Commit" button to send my changes to my repo. The last thing was pushing the commit to GitHub.
 
 ## Reflections
 I find some problems when I did the first assignment. Firstly, when I wanted to use "section headers" Markdown syntax, I often forgot the space after the pound sign. This will lead to make an error after pushing local changes to Github. Then I learned how to find Where is the link of the picture on the website. For each image, clicking right find the original address of the image. Moreover, I do not know how to design a talking chart in R to create a window showing of options of basketball players. 
 
-In addtion, for the first assignment, I find there is a very useful website for [Markdown syntax](https://daringfireball.net/projects/markdown/syntax). For the R markdown document, rightnow it very easy for me to repete what we studied in class. And here is my 
+In addtion, for the first assignment, I find there is a very useful website for [Markdown syntax](https://daringfireball.net/projects/markdown/syntax). For the R markdown document, it is very easy for me to repete what we studied in class. And here is the link:
 [gapminder.Rmd ](https://github.com/yanchaoluo/STAT545-hw01-LUO-YANCHAO/blob/master/hw01_gapminder.Rmd), 
 [gapminder.md ](https://github.com/yanchaoluo/STAT545-hw01-LUO-YANCHAO/blob/master/hw01_gapminder.md), 
 and [gapminder_files](https://github.com/yanchaoluo/STAT545-hw01-LUO-YANCHAO/tree/master/hw01_gapminder_files/figure-markdown_github-ascii_identifiers)
